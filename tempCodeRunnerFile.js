@@ -1,1 +1,1 @@
-const b = 6;
+console.log(typeof m)
