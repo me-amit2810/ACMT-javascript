@@ -1,2 +1,2 @@
-console.log(typeof null); // Output: object
-// console.log(typeof undefined); // Output: undefined
+console.log(myDate.toString());
+// console.log(myDate.toLocaleString());
