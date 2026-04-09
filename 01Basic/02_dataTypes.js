@@ -11,7 +11,7 @@
 // Symbol => kisi bhi value ko unique banane ke liye
 
 // Object=> data ko key or value ke pair me store krta hai.
-
+log
  
 
 // typeof - ye hume data ka type batata hai
