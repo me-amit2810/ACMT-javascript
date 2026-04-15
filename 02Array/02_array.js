@@ -4,6 +4,7 @@ const dc_heros = ["Superman","flash","Batman"]
 
 // marvel_heros.push(dc_heros);
 // console.log(marvel_heros);
+//  ["thor", "Ironman", "Spiderman", ["Superman","flash","Batman"] ]
 // console.log(marvel_heros[3][0]);
 
 // `concat` method do arrays ko jodkar ek naya array return karta hai. Original arrays change nahi hote.
