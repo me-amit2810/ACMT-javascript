@@ -13,7 +13,7 @@ const pii = 3.1436;
 
 // console.log(pii.toFixed(1));
 
-// 'toPrecision()' total kitne significant digits ke baad tak value ko round off krnba hai
+// 'toPrecision()' total kitne significant digits ke baad tak value ko round off krta hai
 
 // console.log(pii.toPrecision(3));
 

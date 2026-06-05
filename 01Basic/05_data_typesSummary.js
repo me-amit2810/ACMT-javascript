@@ -20,7 +20,7 @@ const BigNumber = 4545456456564544564564n;
 // Example of non-primitive data type--->
 // Object -> Data ko key and value ke pair me store krta hai
 let user ={
-    name: "Aditya",
+    name: "Aditya",     
     age: 50,
 }
 
@@ -28,7 +28,7 @@ let user ={
 // console.log(user.age);
 // console.table([user.name, user.age])
 
-// Array -> Collection of Similar data.
+// Array -> Collection of data.
 let arr1 = ["Shaktiman", "Flying Jatt", "Ra-one"]
 // console.log(arr1[0])
 
